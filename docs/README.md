@@ -13,3 +13,11 @@
 |[operations research](https://github.com/lpintelon/HELP/blob/main/docs/2020_HELP_operations%20research_dc.pdf)|[dirk cattrysse](https://kuleuven.mediaspace.kaltura.com/media/HELP+operations+research+-+dc/1_na6mngdp)|
 |[simulation](https://github.com/lpintelon/HELP/blob/main/docs/2020_HELP_Simulation_PC.pdf)|[peter chemweno](https://kuleuven.mediaspace.kaltura.com/media/HELP+simulation+-+PC/1_vsdpoaw0)|
 
+## Day 2
+
+## Day 3
+
+## Day 4
+
+## Post-assignment
+* [post-assignment materials](https://github.com/lpintelon/HELP/blob/main/docs/2020_HELP_Postassignment%20overview.pdf)

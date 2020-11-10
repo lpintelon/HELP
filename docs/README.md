@@ -18,7 +18,7 @@
 
 |slides|recording|
 |------|---------|
-| [MCDM ] (https://github.com/lpintelon/HELP/blob/main/docs/2020_HELP_MCDM_RDW.pdf) |  [reginald dewil] (https://kuleuven.mediaspace.kaltura.com/media/HELP_mcdm_rdw/1_14kmxuve)  |
+| [MCDM] (https://github.com/lpintelon/HELP/blob/main/docs/2020_HELP_MCDM_RDW.pdf) |  [reginald dewil] (https://kuleuven.mediaspace.kaltura.com/media/HELP_mcdm_rdw/1_14kmxuve)  |
 | [inventory] (https://github.com/lpintelon/HELP/blob/main/docs/2020_HELP_inventory_LP.pdf) |  [liliane pintelon] (https://kuleuven.mediaspace.kaltura.com/media/2020_HELP_inventory_LP/1_amfw51qi)  |
 | [PhD case] (https://github.com/lpintelon/HELP/blob/main/docs/2020_HELP_PhDproject_KM.pdf) |  [karen moons] (https://kuleuven.mediaspace.kaltura.com/media/HELP_case+PhD_km/1_dm3mrow2)  |
 | [case satellite] (https://github.com/lpintelon/HELP/blob/main/docs/Case%20discussion_satellite.pdf) |   |

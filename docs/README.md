@@ -28,7 +28,7 @@
 |slides|recording|
 |------|---------|
 | [technology mgmt](https://github.com/lpintelon/HELP/blob/main/docs/2020_HELP_technology%20management_LP.pdf) |  [liliane pintelon](https://kuleuven.mediaspace.kaltura.com/media/2020_HELP_technology+management_LP/1_pt5zalh1)  |
-| [ ]( ) |  [ ]( )  |
+| [risk](https://github.com/lpintelon/HELP/blob/main/docs/2020_HELP_risk_AA.pdf) |  [arie adriaensen](https://kuleuven.mediaspace.kaltura.com/media/HELP+presentation+KUL_Adriaensen/1_sipigwgm)  |
 | [hospital case](https://github.com/lpintelon/HELP/blob/main/docs/2020_HELP_tracking%20and%20tracing_PT.pdf) |  [paul timmermans](https://kuleuven.mediaspace.kaltura.com/media/HELP+tracking+and+tracing+-+pt/1_kjg7f5ot)  |
 | [case h@h](https://github.com/lpintelon/HELP/blob/main/docs/Case%20discussion_hospital%20at%20home.pdf) |   |
 | [case outsourcing](https://github.com/lpintelon/HELP/blob/main/docs/Case%20discussion_outsourcing.pdf) |    |
